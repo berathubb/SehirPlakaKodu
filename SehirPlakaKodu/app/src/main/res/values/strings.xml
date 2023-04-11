@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Plaka Numarası Sorgulama</string>
+    <string name="spkodu">Şehir Plaka Kodunu Giriniz</string>
+    <string name="btn">Bul</string>
+    <string name="sonuc">Şehir İsmi</string>
+</resources>
